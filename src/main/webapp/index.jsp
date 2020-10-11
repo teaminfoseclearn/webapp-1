@@ -51,7 +51,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hello ArmoreCode Welcomes You</h1>
+        <h1>ArmoreCode Welcomes You</h1>
         <p>This is Cyber Security Engineering Branch. </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
