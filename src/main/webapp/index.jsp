@@ -61,13 +61,13 @@
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <h2>CEO- Nikhil Gupta</h2>
+            <p>An entrepreneurial business leader with proven track record of building products and businesses from ground up to multi-million dollar revenue. Adept at leading cross-functional, transformational initiatives across diverse groups to successfully develop Go To Market Strategy (GTM) and launch innovative products, services, and solutions. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <h2>CTO- Anant Mishra</h2>
+            <p>Anant is effective and professional Engineering professional. He has broad and deep knowledge in all aspects of technology. His leadership style and vision helped us at 99acres. He played a key role and mentored the development team on the most critical 99acres UI revamp project. He is genuinely interested in solving all technology problems. He continually innovates driving disruptive improvements and pushes the boundaries. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
